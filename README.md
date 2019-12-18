@@ -1,2 +1,2 @@
 # PWSAI
-Traditional neural network for a school project
+Traditional neural network written in Java for a school project
