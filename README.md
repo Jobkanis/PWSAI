@@ -1,2 +1,2 @@
 # PWSAI
-Traditional neural network written in Java for a school project
+2 different algorithms designed to predict school-achievements
